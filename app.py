@@ -43,7 +43,7 @@ st.subheader('Enter Patient Details')
 age = st.number_input('Age: ', 18,100)
 sex = st.selectbox('Sex: ', ['Male', 'Female'])
 bmi = st.number_input('Body Mass Index: ', 10,70)
-children = st.selectbox('No. oc Children: ', [0,1,2,3,4,5,6,7,8])
+children = st.selectbox('No. of Children: ', [0,1,2,3,4,5,6,7,8])
 smoker = st.selectbox('Smoker? ', ['No', 'Yes'])
 region = st.selectbox('Region: ', ['NorthWest', 'NorthEast', 'SouthWest', 'SouthEast'])
 
