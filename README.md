@@ -131,7 +131,7 @@ The model was evaluated using cross-validation to ensure robust performance acro
 Your Name
 Email: Emmanuelayomikun02@gmail.com
 
-LinkedIn (https://www.linkedin.com/in/emmanuel-olusolade-09a5a8347)
+LinkedIn: (https://www.linkedin.com/in/emmanuel-olusolade-09a5a8347)
 
 Twitter: @OlusoladeEmman1 (https://x.com/OlusoladeEmman1)
 
