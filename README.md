@@ -100,8 +100,9 @@ app.py
 
 📂 Project Structure
 
-health-insurance-prediction/
-│
+health-insurance-prediction
+
+
 ├── app.py                # Streamlit web app
 
 ├── gbr_model.pkl         # Trained Gradient Boosting model
